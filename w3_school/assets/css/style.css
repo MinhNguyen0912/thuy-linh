@@ -95,7 +95,7 @@ html{
 }
 #slider{
     margin-top: 46.5px;
-    background: url('/w3_school/assets/img/slider/chicago.jpg') top center / cover no-repeat;
+    background: url('../img/slider/chicago.jpg') top center / cover no-repeat;
     padding-top: 50%;
     position: relative;
     text-align: center;
@@ -120,6 +120,7 @@ html{
     font-size: 15px;
     font-family: Lato, sans-serif;
     font-weight: 700;
+    text-shadow: 0 0 1px #000;
 }
 .khung{
     width: 800px;
